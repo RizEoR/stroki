@@ -1,0 +1,14 @@
+D:\практика\tema4\stroki\bin\Debug\net8.0\stroki.exe
+D:\практика\tema4\stroki\bin\Debug\net8.0\stroki.deps.json
+D:\практика\tema4\stroki\bin\Debug\net8.0\stroki.runtimeconfig.json
+D:\практика\tema4\stroki\bin\Debug\net8.0\stroki.dll
+D:\практика\tema4\stroki\bin\Debug\net8.0\stroki.pdb
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.GeneratedMSBuildEditorConfig.editorconfig
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.AssemblyInfoInputs.cache
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.AssemblyInfo.cs
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.csproj.CoreCompileInputs.cache
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.dll
+D:\практика\tema4\stroki\obj\Debug\net8.0\refint\stroki.dll
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.pdb
+D:\практика\tema4\stroki\obj\Debug\net8.0\stroki.genruntimeconfig.cache
+D:\практика\tema4\stroki\obj\Debug\net8.0\ref\stroki.dll
