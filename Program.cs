@@ -1,6 +1,6 @@
 ﻿using System;
 
-public class StringComparisonExample
+public class Str
 {
     public static void Main(string[] args)
     {
